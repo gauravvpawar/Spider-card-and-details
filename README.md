@@ -1,0 +1,1 @@
+# Spider-card-and-details
